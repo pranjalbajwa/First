@@ -12,6 +12,8 @@ public void setLocation(pojo.location loc) {
 }
 public int getAccuracy() {
 	return accuracy;
+	
+	
 }
 public void setAccuracy(int accuracy) {
 	this.accuracy = accuracy;
